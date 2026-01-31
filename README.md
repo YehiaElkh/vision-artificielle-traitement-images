@@ -144,4 +144,4 @@ pip install -r requirements.txt
     Otsu, N. (1979). "A Threshold Selection Method from Gray-Level Histograms"
     ITU-R Recommendation BT.601 "Studio encoding parameters of digital television"
 
-**Lien vers le Dépôt GitHub :** [https://github.com/ElkhoulatiYahya/vision-artificielle-traitement-images]
+**Lien vers le Dépôt GitHub :** [https://github.com/YehiaElkh/vision-artificielle-traitement-images]
